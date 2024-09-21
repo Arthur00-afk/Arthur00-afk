@@ -1,4 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
+Meu nome é Arthur 😁
+- Sou estudante da Alura;
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
+
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpkcno2dmF1cHJoeG92ajltMDh0OWU4Yjc0MWJnOTM3cnF5OWJmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
+![.](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ2MmN3M3FlYjcxNHZkeGE5ZXJsOHdzcjZ6MWpzaHJhbnVkOG4xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jWu7BuHufyLs7m/giphy.gif) 
+
+
 
 <!--
 **Arthur00-afk/Arthur00-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
